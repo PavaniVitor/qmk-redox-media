@@ -34,7 +34,7 @@
     "split": {
         "enabled": true,
         "serial": {
-            "pin": "GP0"
+            "pin": "GP11"
         }
     },
     "processor": "RP2040",
